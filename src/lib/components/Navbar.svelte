@@ -1,5 +1,9 @@
+<script>
+	import { base } from '$app/paths';
+</script>
+
 <div class="navbar">
-	<a href="/" class="title">Leons.Works</a>
+	<a href={base} class="title">Leons.Works</a>
 </div>
 
 <style lang="sass">
