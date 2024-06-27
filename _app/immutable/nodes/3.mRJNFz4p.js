@@ -1,4 +1,4 @@
-import{s as at,n as S}from"../chunks/scheduler.CtbWrGNo.js";import{S as ot,i as st,e as a,s,c as o,g as l,a as r,b as lt,d as e,f as F,h as i}from"../chunks/index.BRgGXQ2d.js";function rt(it){let h,B="Realitynaut",_,u,E="TLDR",k,f,N=`A helmet that turns its wearer into a human probe for AI. They must respond to instructions and
+import{s as at,n as S}from"../chunks/scheduler.Bmg8oFKD.js";import{S as ot,i as st,e as a,s,c as o,g as l,a as r,b as lt,d as e,f as F,h as i}from"../chunks/index.B9evkK4s.js";function rt(it){let h,B="Realitynaut",_,u,E="TLDR",k,f,N=`A helmet that turns its wearer into a human probe for AI. They must respond to instructions and
 	questions asked by a chat AI. With the end goal being that either the AI is able to gain some sort
 	of significant information about the real world, or the AI is able to guide the user to a goal.
 	The idea being that it highlights a major restriction in chat AIs - their access to the real

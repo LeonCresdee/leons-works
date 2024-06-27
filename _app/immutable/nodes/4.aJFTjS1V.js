@@ -1,4 +1,4 @@
-import{s as I,n as y}from"../chunks/scheduler.CtbWrGNo.js";import{S as P,i as S,e as p,s as v,c as h,g as m,a as b,h as n,d as a}from"../chunks/index.BRgGXQ2d.js";function M(_){let e,w="Why would you like to participate in the Make Shift Camp?",c,i,x=`Hello my name’s Leon, I am 24 years old, I currently work as a developer at an Animation studio,\r
+import{s as I,n as y}from"../chunks/scheduler.Bmg8oFKD.js";import{S as P,i as S,e as p,s as v,c as h,g as m,a as b,h as n,d as a}from"../chunks/index.B9evkK4s.js";function M(_){let e,w="Why would you like to participate in the Make Shift Camp?",c,i,x=`Hello my name’s Leon, I am 24 years old, I currently work as a developer at an Animation studio,\r
 	and I’m applying to be a part of this years Make Shift camp.`,d,s,g=`My main motivation for wanting to be a part of this years camp is to meet people who also get\r
 	excited about making and doing creative things with technology. I’m always in search of those\r
 	incredible people who garner both the bubbling creativity to think of new ideas and the technical\r

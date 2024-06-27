@@ -2,32 +2,44 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="/favicon.png" />
+		<link rel="icon" href="./favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
-		<link rel="modulepreload" href="/_app/immutable/entry/start.Bs5lztKf.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/entry.IUc6YLM4.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/scheduler.CtbWrGNo.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/paths.DOro9nQH.js">
-		<link rel="modulepreload" href="/_app/immutable/entry/app.DlscVVvc.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/index.BRgGXQ2d.js">
+		<link href="./_app/immutable/assets/0.CBjxoTue.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/2.DUmXJiX1.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.Cyd52u8p.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/entry.B19Q78dp.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.Bmg8oFKD.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/paths.i1_SNKVQ.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.CShqZVL2.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.B9evkK4s.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/0.D6Aaolyc.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/2.DBR2XHS4.js">
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div class="content-container">
-			<div class="content">
+			<div class="content">  <div class="navbar svelte-1cuoiut" data-svelte-h="svelte-1k2ycv4"><a href="." class="title svelte-1cuoiut">Leons.Works</a> </div> <h2 data-svelte-h="svelte-7jt1gw">Projects</h2> <hr> <div class="project-list svelte-3z09j1" data-svelte-h="svelte-17eq9se"><a href="./projects/realitynaut" class="svelte-3z09j1">Realitynaut</a> </div> 
+			
 			<script>
 				{
-					__sveltekit_1vc7okw = {
-						base: ""
+					__sveltekit_48h4pf = {
+						base: new URL(".", location).pathname.slice(0, -1)
 					};
 
 					const element = document.currentScript.parentElement;
 
+					const data = [null,null];
+
 					Promise.all([
-						import("/_app/immutable/entry/start.Bs5lztKf.js"),
-						import("/_app/immutable/entry/app.DlscVVvc.js")
+						import("./_app/immutable/entry/start.Cyd52u8p.js"),
+						import("./_app/immutable/entry/app.CShqZVL2.js")
 					]).then(([kit, app]) => {
-						kit.start(app, element);
+						kit.start(app, element, {
+							node_ids: [0, 2],
+							data,
+							form: null,
+							error: null
+						});
 					});
 				}
 			</script>

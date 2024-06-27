@@ -1,4 +1,4 @@
-import{s as Z,n as H}from"../chunks/scheduler.CtbWrGNo.js";import{S as $,i as tt,e as a,s as l,c as o,g as i,a as r,h as n,d as s}from"../chunks/index.BRgGXQ2d.js";function et(Y){let p,U=`We’re looking for people who make playful things with technology. Tell us about something you’ve\r
+import{s as Z,n as H}from"../chunks/scheduler.Bmg8oFKD.js";import{S as $,i as tt,e as a,s as l,c as o,g as i,a as r,h as n,d as s}from"../chunks/index.B9evkK4s.js";function et(Y){let p,U=`We’re looking for people who make playful things with technology. Tell us about something you’ve\r
 	made, the kinds of things you’re interested in and any technical skills you might have`,k,u,W="A bit of background on me:",I,h,G=`I’ve been programming things since I was a teenager. I got my Bachelors in Computer science. After\r
 	that I was hired at Aardman Animations as their Stop Motion Pipeline Developer. There I’ve been\r
 	lucky enough to be a part of two feature films: Chicken Run 2 and the latest Wallace & Gromit\r
