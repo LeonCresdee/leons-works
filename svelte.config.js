@@ -15,7 +15,7 @@ const config = {
 		})
 	},
 	paths: {
-		base: process.env.NODE_ENV === 'production' ? '/leonsworks' : ''
+		base: process.env.NODE_ENV === 'production' ? '/leons-works' : ''
 	}
 };
 
